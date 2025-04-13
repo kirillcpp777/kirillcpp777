@@ -6,7 +6,7 @@
 </p>
 
 <!-- Static Greeting -->
-<h1 align="center" style="font-size: 44px;">👋 Hello, I'm Kirill Senator</h1>
+<h1 align="center" style="font-size: 45px;">👋 Hello, I'm Kirill Senator</h1>
 
 <!-- Animated Typing Text -->
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🌿 About Me
 
-<p align="center" style="font-size: 19px; color: #717171; font-family: 'Arial', sans-serif; line-height: 1.6;">
+<p align="center" style="font-size: 27px; color: #717171; font-family: 'Arial', sans-serif; line-height: 1.6;">
   As a 14-year-old aspiring fullstack developer from Ukraine, I’m dedicated to learning and growing in the field of software development. My focus is on building impactful and meaningful solutions that combine clean code with thoughtful design
 </p>
 
