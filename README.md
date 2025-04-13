@@ -6,7 +6,7 @@
 </p>
 
 <!-- Static Greeting -->
-<h1 align="center" style="font-size: 40px; color: #f0f0f0; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
+<h1 align="center" style="font-size: 45px; color: #f0f0f0; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
   👋 Hello, I'm Kirill Senator
 </h1>
 
@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=800&lines=💻+Aspiring+Fullstack+Dev+%7C+Building+impactful+projects;🌱+Code+with+purpose.+Design+with+soul.;🙏+Striving+for+excellence+and+faith." alt="Typing Animation" />
 </p>
 
----
+<div style="height: 40px;"></div>
 
 ## 🌿 About Me
 
@@ -25,7 +25,7 @@
   building impactful and meaningful solutions that combine clean code and thoughtful design.
 </p>
 
----
+<div style="height: 40px;"></div>
 
 ## 🧰 Tech Stack
 
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,tailwind,git,vscode,webstorm,python" alt="Tech Stack Icons" style="max-width: 100%;" />
 </p>
 
----
+<div style="height: 40px;"></div>
 
 ## 📊 GitHub Stats
 
@@ -42,7 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kirillcpp777&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
----
+<div style="height: 40px;"></div>
 
 ## 📫 Connect With Me
 
@@ -68,9 +68,9 @@
   </a>
 </p>
 
----
+<div style="height: 40px;"></div>
 
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #b0b0b0; margin-top: 40px;">
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #b0b0b0; margin-top: 20px;">
   <em>“Let everything I create be full of meaning, order, and light.”</em><br/>
   <strong>— Kirill Senator 🌙</strong>
 </p>
