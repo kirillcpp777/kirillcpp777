@@ -49,25 +49,25 @@
 <p align="center">
   <!-- Telegram -->
   <a href="https://t.me/kyryllsenator" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="50" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="80" />
   </a>
   &nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="80" />
   </a>
   &nbsp;&nbsp;
 
   <!-- TikTok -->
   <a href="https://tiktok.com/@your_tiktok" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="50" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="80" />
   </a>
   &nbsp;&nbsp;
 
   <!-- Email -->
   <a href="mailto:kirillcpp777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="50" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width=850" />
   </a>
 </p>
 
