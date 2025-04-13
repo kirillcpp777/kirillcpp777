@@ -11,7 +11,7 @@
 </h1>
 
 <!-- Animated Typing Text -->
-<p align="center" style="margin-bottom: 29px;">
+<p align="center" style="margin-bottom: 26px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=800&lines=💻+Aspiring+Fullstack+Dev+%7C+Building+impactful+projects;🌱+Code+with+purpose.+Design+with+soul.;🙏+Striving+for+excellence+and+faith." alt="Typing Animation" />
 </p>
 
