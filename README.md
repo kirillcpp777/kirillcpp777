@@ -2,7 +2,7 @@
 
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://github.com/kirillcpp777/kirillcpp777/blob/main/assets/header.png" width="100%" alt="Banner" />
+  <img src="https://github.com/kirillcpp777/kirillcpp777/blob/main/assets/header.png" width="90%" alt="Banner" />
 </p>
 
 <!-- Static Greeting -->
