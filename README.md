@@ -6,7 +6,7 @@
 </p>
 
 <!-- Static Greeting -->
-<h1 align="center" style="font-size: 45px;">👋 Hello, I'm Kirill Senator</h1>
+<h1 align="center" style="font-size: 45px; color: #f0f0f0; font-family: 'Arial', sans-serif;">👋 Hello, I'm Kirill Senator</h1>
 
 <!-- Animated Typing Text -->
 <p align="center">
@@ -17,17 +17,16 @@
 
 ## 🌿 About Me
 
-<p align="center" style="font-size: 27px; color: #717171; font-family: 'Arial', sans-serif; line-height: 1.6;">
-  As a 14-year-old aspiring fullstack developer from Ukraine, I’m dedicated to learning and growing in the field of software development. My focus is on building impactful and meaningful solutions that combine clean code with thoughtful design
+<p align="center" style="font-size: 27px; color: #dcdcdc; font-family: 'Arial', sans-serif; line-height: 1.6; max-width: 800px; text-align: center;">
+  As a 14-year-old aspiring fullstack developer from Ukraine, I’m dedicated to learning and growing in the field of software development. My focus is on building impactful and meaningful solutions that combine clean code with thoughtful design.
 </p>
-
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git,vscode,webstorm, python" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git,vscode,webstorm,python" alt="Tech Stack Icons" style="max-width: 100%;" />
 </p>
 
 ---
@@ -46,31 +45,31 @@
 <p align="center">
   <!-- Telegram -->
   <a href="https://t.me/kyryllsenator" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="100" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="120" />
   </a>
   &nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120" />
   </a>
   &nbsp;&nbsp;
 
   <!-- TikTok -->
   <a href="https://tiktok.com/@your_tiktok" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="100" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="120" />
   </a>
   &nbsp;&nbsp;
 
   <!-- Email -->
   <a href="mailto:kirillcpp777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width=100" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120" />
   </a>
 </p>
 
 ---
 
-<p align="center">
+<p align="center" style="font-size: 18px; color: #b0b0b0; font-family: 'Arial', sans-serif;">
   <em>“Let everything I create be full of meaning, order, and light.”</em><br/>
   <strong>— Kirill Senator 🙏</strong>
 </p>
