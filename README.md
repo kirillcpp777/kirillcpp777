@@ -6,7 +6,7 @@
 </p>
 
 <!-- Static Greeting -->
-<h1 align="center" style="font-size: 45px; color: #f0f0f0; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
+<h1 align="center" style="font-size: 35px; color: #f0f0f0; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
   👋 Hello, I'm Kirill Senator
 </h1>
 
