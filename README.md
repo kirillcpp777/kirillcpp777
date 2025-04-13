@@ -49,26 +49,27 @@
 <p align="center">
   <!-- Telegram -->
   <a href="https://t.me/kyryllsenator" target="_blank">
-    <i class="fab fa-telegram-plane" style="font-size: 40px; color: #2CA5E0;"></i>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="40" />
   </a>
   &nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/your_instagram" target="_blank">
-    <i class="fab fa-instagram" style="font-size: 40px; color: #E4405F;"></i>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="40" />
   </a>
   &nbsp;&nbsp;
+
   <!-- TikTok -->
   <a href="https://tiktok.com/@your_tiktok" target="_blank">
-    <i class="fab fa-tiktok" style="font-size: 40px; color: #000000;"></i>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="40" />
   </a>
   &nbsp;&nbsp;
+
   <!-- Email -->
   <a href="mailto:kirillcpp777@gmail.com" target="_blank">
-    <i class="fas fa-envelope" style="font-size: 40px; color: #D14836;"></i>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="40" />
   </a>
 </p>
-
 
 ---
 
