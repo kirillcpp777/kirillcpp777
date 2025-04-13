@@ -1,9 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://github.com/kirillcpp777/kirillcpp777/blob/main/assets/header.png" width="90%" alt="Banner" />
-</p>
 
 <!-- Static Greeting -->
 <h1 align="center" style="font-size: 45px; color: #f0f0f0; font-family: 'Arial', sans-serif;">👋 Hello, I'm Kirill Senator</h1>
