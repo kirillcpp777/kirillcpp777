@@ -10,7 +10,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=717171&center=true&vCenter=true&width=800&lines=💻+Fullstack+Dev+%7C+Legal+Mind+%7C+Believer;🚀+Building+Talentio+%26+Monochrist;🌱+Code+with+purpose.+Design+with+soul.;🙏+All+for+the+glory+of+God." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=800&color=717171&center=true&vCenter=true&width=800&lines=💻+Fullstack+Dev+%7C+Legal+Mind+%7C+Believer;🚀+Building+Talentio+%26+Monochrist;🌱+Code+with+purpose.+Design+with+soul.;🙏+All+for+the+glory+of+God." alt="Typing Animation" />
 </p>
 
 ---
@@ -18,10 +18,7 @@
 ## 🌿 About Me
 
 <p align="center" style="font-size: 19px; color: #717171; font-family: 'Arial', sans-serif; line-height: 1.6;">
-  I'm a 14-year-old fullstack developer and aspiring lawyer from Ukraine.<br>
-  I build clean, purposeful software that reflects a balance of code, design, and meaning.<br>
-  Founder of <strong>Talentio</strong> — a modern CV builder, and <strong>MONOCHRIST</strong> — a spiritual media platform.<br>
-  My work is guided by faith, logic, and the pursuit of true impact.
+  As a 14-year-old aspiring fullstack developer from Ukraine, I’m dedicated to learning and growing in the field of software development. My focus is on building impactful and meaningful solutions that combine clean code with thoughtful design
 </p>
 
 
