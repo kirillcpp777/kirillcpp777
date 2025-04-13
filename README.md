@@ -10,7 +10,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=800&color=717171&center=true&vCenter=true&width=800&lines=💻+Fullstack+Dev+%7C+Legal+Mind+%7C+Believer;🚀+Building+Talentio+%26+Monochrist;🌱+Code+with+purpose.+Design+with+soul.;🙏+All+for+the+glory+of+God." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=800&color=717171&center=true&vCenter=true&width=800&lines=💻+Aspiring+Fullstack+Dev+%7C+Building+impactful+projects;🌱+Code+with+purpose.+Design+with+soul.;🙏+Striving+for+excellence+and+faith." alt="Typing Animation" />
 </p>
 
 ---
