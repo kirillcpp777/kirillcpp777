@@ -19,7 +19,7 @@
 ## 🌿 About Me
 
 <p style="max-width: 800px; font-family: 'Roboto', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #dcdcdc; margin: 0 auto 3rem auto; text-align: center; padding: 1.5rem; border-radius: 8px; background-color: #2a2a2a;">
-  I'm a 14-year-old developer from Ukraine passionate about full-stack development.  
+  I'm a 14-year-old developer from Ukraine passionate about full-stack development and machine learning.  
   My journey focuses on creating meaningful solutions that blend technical excellence  
   with thoughtful user experience. I believe in coding with purpose and designing with soul.
 </p>
@@ -30,10 +30,10 @@
 
 <div align="center" style="margin-bottom: 3rem;">
   <h3 style="color: #4fc3f7; margin-bottom: 1.5rem;">Core Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css" alt="Core Tech" style="margin: 0.5rem;"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,python,pytorch" alt="Core Tech" style="margin: 0.5rem;"/>
   
   <h3 style="color: #4fc3f7; margin: 1.5rem 0;">Tools & More</h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,git,vscode,webstorm,python" alt="Tools" style="margin: 0.5rem;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,git,vscode,webstorm" alt="Tools" style="margin: 0.5rem;"/>
 </div>
 
 <div style="height: 2rem;"></div>
