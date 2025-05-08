@@ -19,7 +19,7 @@
 ## 🌿 About Me
 
 <p style="max-width: 800px; font-family: 'Roboto', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #dcdcdc; margin: 0 auto 3rem auto; text-align: center; padding: 1.5rem; border-radius: 8px; background-color: #2a2a2a;">
-  I'm a 14-year-old developer from Ukraine passionate about full-stack development and machine learning.  
+  I'm a 14-year-old developer from Ukraine passionate about 🤭 and machine learning.  
   My journey focuses on creating meaningful solutions that blend technical excellence  
   with thoughtful user experience. I believe in coding with purpose and designing with soul.
 </p>
