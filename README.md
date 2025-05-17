@@ -6,34 +6,34 @@
 </h1>
 
 <h3 align="center" style="font-size: 1.2rem; color: #a0a0a0; font-weight: 300; margin-bottom: 2rem;">
-  Future Tech Entrepreneur | Robotics & Space Enthusiast
+  Fullstack Developer • AI & Robotics Enthusiast • Design-Focused Thinker
 </h3>
 
 <!-- Animated Typing Text -->
 <p align="center" style="margin-bottom: 2.5rem;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4fc3f7&center=true&vCenter=true&width=800&lines=Building+robots+for+Mars...;Crafting+AI-powered+security+systems...;Planning+the+next+CosmoEcosystem..." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4fc3f7&center=true&vCenter=true&width=800&lines=Engineering+intelligence+into+every+line+of+code;Designing+with+clarity+and+precision;Focused+on+impact,+not+hype" alt="Typing Animation" />
 </p>
 
 <div style="height: 2rem;"></div>
 
-## 🌌 About Me
+## 🌿 About Me
 
 <p style="max-width: 800px; font-family: 'Roboto', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #dcdcdc; margin: 0 auto 3rem auto; text-align: center; padding: 1.5rem; border-radius: 8px; background-color: #2a2a2a;">
-  I'm a 14-year-old innovator from Ukraine with a passion for robotics, space tech, and artificial intelligence.  
-  My goal is to launch a full-stack space-tech ecosystem — from autonomous Mars robots to secure neural networks  
-  and smart infrastructure. I believe in the power of vision, clean design, and purposeful development.
+  I'm a 14-year-old developer from Ukraine who codes not for trends, but for transformation.  
+  I focus on building smart systems that are efficient, minimalistic, and deeply thought-through.  
+  My interests span fullstack development, artificial intelligence, and meaningful product design.
 </p>
 
 <div style="height: 2rem;"></div>
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center" style="margin-bottom: 3rem;">
   <h3 style="color: #4fc3f7; margin-bottom: 1.5rem;">Core Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,pytorch,arduino" alt="Core Tech" style="margin: 0.5rem;"/>
-
-  <h3 style="color: #4fc3f7; margin: 1.5rem 0;">Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,tailwind,figma,vercel,raspberrypi" alt="Tools" style="margin: 0.5rem;"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,pytorch" alt="Core Tech" style="margin: 0.5rem;"/>
+  
+  <h3 style="color: #4fc3f7; margin: 1.5rem 0;">Tools & Ecosystem</h3>
+  <img src="https://skillicons.dev/icons?i=tailwind,git,vscode,figma,vercel" alt="Tools" style="margin: 0.5rem;"/>
 </div>
 
 <div style="height: 2rem;"></div>
@@ -47,7 +47,7 @@
 
 <div style="height: 2rem;"></div>
 
-## 🌐 Connect with Me
+## 📫 Let's Connect
 
 <div align="center" style="margin-bottom: 3rem;">
   <!-- Telegram -->
@@ -69,6 +69,6 @@
 <hr style="border: 0; height: 1px; background: #333; margin: 2rem auto; width: 80%;">
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 1rem; color: #b0b0b0;">
-  <em>"Think bigger than Earth. Code like the future depends on it."</em><br>
+  <em>"Precision is power. Purpose is progress."</em><br>
   <strong>— Kyryl Senator</strong>
 </p>
