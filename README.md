@@ -30,13 +30,22 @@
 
 <div align="center" style="margin-bottom: 3rem;">
   <h3 style="color: #4fc3f7; margin-bottom: 1.5rem;">Core Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,pytorch" alt="Core Tech" style="margin: 0.5rem;"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,sqlite,postgres,python,pytorch" alt="Core Tech" style="margin: 0.5rem;"/>
   
   <h3 style="color: #4fc3f7; margin: 1.5rem 0;">Tools & Ecosystem</h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,git,vscode,figma,vercel" alt="Tools" style="margin: 0.5rem;"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,arduino,raspberrypi,postman" alt="Tools" style="margin: 0.5rem;"/>
+  
+  <h3 style="color: #4fc3f7; margin: 1.5rem 0;">AI / Robotics / CV</h3>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" alt="AI Tools" style="margin: 0.5rem;"/>
+  <img src="https://img.shields.io/badge/mediapipe-%23FF6F00.svg?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" style="margin: 0.5rem;"/>
+  <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=python&logoColor=white" alt="YOLOv8" style="margin: 0.5rem;"/>
+  
+  <h3 style="color: #4fc3f7; margin: 1.5rem 0;">Cloud & Deployment</h3>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="margin: 0.5rem;"/>
+  <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" style="margin: 0.5rem;"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="margin: 0.5rem;"/>
 </div>
 
-<div style="height: 2rem;"></div>
 
 ## 📊 GitHub Activity
 
